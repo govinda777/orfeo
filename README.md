@@ -1,4 +1,4 @@
-# orfeo
+# Orfeo tutorial
 
 ## Como baixar | Primeiro Commit :robot:
 
@@ -12,3 +12,18 @@ git commit -m 'print("Olá <GIT> eu sou o <Orfeo> \n um [Chatterbot]. Sou **repr
 
 ```
 
+## Como criar um bug
+
+## Como criar uma branch
+
+## Como entrar nessa branch
+
+## Como Corrigir o bug
+
+## Como dar commit no código
+
+## Como mandar o código para o servidor
+
+## Como fazer um Pull_Request
+
+## 
