@@ -287,6 +287,82 @@ $- 24h=3d#custoParaAtuarNoAtivo -$ #fimRetornoMonetario3
 ```
 
 
+## Titulo resumido <titulo_de_card_Resumido_Com_Quebra_De_Linha>
+
+
+<titulo_de_card_Completo_Com_Quebra_De_Linha_Em_PY>=<Card_Title_Complete_With_Line_Break_In_PY>
+
+* Segue abaixo um exemplo de <titulo_de_card_Completo_Com_Quebra_De_Linha_Em_PY>
+
+
+
+```py
+
+
+#<titulo_de_card_Completo_Com_Quebra_De_Linha_Em_PY>
+
+
+print(""" 
+
+$- 99#cash -$ 
+
+<govinda777> 
+- Criar processo automatizado para criar artigos no <blog>=[<posts> , <linkedin> ,<whatsapp>] 
+
+$- <TEMPO | Agilidade | Orfeo> -$ 
+
+$- 75 -$ 
+
+$- 24h=3d -$ 
+
+
+
+""")
+
+```
+
+## Acho que não consigo ser mais detalhista que isso.
+
+
+
+```py
+
+print(""" 
+
+## <titulo_de_card_Completo_Com_Quebra_De_Linha_Em_PY>
+
+$- 99#cash -$ 
+
+<govinda777> 
+- Criar processo automatizado para criar artigos no <blog>=[<posts> , <linkedin> ,<whatsapp>] 
+
+$- <TEMPO | Agilidade | Orfeo> -$ 
+
+$- 75 -$ 
+
+$- 24h=3d -$ 
+
+## <titulo_de_card_Completo_Com_Quebra_De_Linha_Em_PY_Com_Comentarios_Mais_Simples>
+
+$- 99 R$ -$ | Receita que vc vai ganhar fazendo esse card
+
+<govinda777>  | Pessoa responsavel pela tarefa
+- Criar processo automatizado para criar artigos no <blog>=[<posts> , <linkedin> ,<whatsapp>]  | Descrição da tarefa
+
+$- <TEMPO | Agilidade | Orfeo> -$ | Retorno, resultado que esse card irá proporsionar
+
+| ## Da qui para baixo agente vai falar de custo
+
+$- --75 -$  | Valor a ser devitado da <GovindaSystems>
+
+$- 24h=3d -$   | Tempo estimado que irá ser necessário para executar a tarefa, custo pelo tempo
+
+
+""")
+
+```
+
+
 # Exemplos de comunicações em Py
 
 ## Como utilizar um callback
