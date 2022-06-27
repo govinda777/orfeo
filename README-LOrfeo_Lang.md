@@ -91,10 +91,31 @@ origin <govinda777_Exemplo> from <orfeo>
 ## Enviando uma mensagem P2P Mais Simples
 
 # $- 10 -$ <govinda777_Exemplo>|<orfeo> - Tudo nosso meu irmão, o que puder fazer para te ajudar eu vou fazer -
+
 # $- 10 -$ <govinda777_Exemplo>|<orfeo> - Tudo nosso meu irmão, o que puder fazer para te ajudar eu vou fazer
 
+## $- <Entendendo_Alguns_Dialogos> -$
 
+## <Dialogo_Exemplo_1>
+
+Contexto : 
+Canal : 
+
+Titulo : <orfeo> : $- 50 R$ -$ -  [Status-Await] - Aguardando evidencia da resolução da tarefa para mandar a <recompensa> - $- 00 -$
 ## Explicando um <ativo>
+
+Explicação : 
+
+#Significado #ComandoExecutadoViaLinhaDeComando | @orfeo:~$ orfeo show #218
+
+#Significado | <orfeo> : 
+#Significado | $- 50 R$ -$ 
+#Significado | -  [Status-Await] - Aguardando evidencia da resolução da tarefa para mandar a <recompensa> 
+#Significado | - $- 00 -$
+
+
+
+
 
 <adicionar_uma_tarefa_dependente>
 

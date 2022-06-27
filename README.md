@@ -26,4 +26,6 @@ git commit -m 'print("Olá <GIT> eu sou o <Orfeo> \n um [Chatterbot]. Sou **repr
 
 ## Como fazer um Pull_Request
 
-## 
+## Valores o que está mais proximo e o que é maior tem mais valor
+
+* Sempre que for mexer no README, sempre coloque as novas informações no começo.
