@@ -1,3 +1,4 @@
+<PIX_Pedro_CPF>="43118735813"
 <Dados_importantes>="github"
 <Dados_importantes>=<pedrokioshi.2203@aluno.barueri.br>="email"
 <Dados_importantes>=<tamanho_de_camiseta_P>="tamanho_de_camiseta P | M | G"
