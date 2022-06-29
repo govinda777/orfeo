@@ -1,3 +1,45 @@
+$- 50 R$ -$ - <__LisTa_De_PeSSoAs__> - Defina essa imagem em 2 letras, exemplo : ed | y@ | oi | fk
+.
+.
+.
+.
+.
+* [**__Govinda_System__by_void__**]--[**__Coca-Cola__Natal__**]--[**__AMBEV__Colorado__**]
+
+# Propagan Space | #Tags
+
+* Site Govinda Systems :
+*
+*
+*
+*
+*
+
+
+
+
+
+
+
+<span class="[**__Livro_De_Criptografia_TESTE__**]a-size-medium a-color-base a-text-normal">
+# [**__Livro_De_Criptografia_TESTE__**]  
+*
+*
+*      
+# Titulo : El libro del Hacker. Edición 2022/29/06
+*
+* Sub : __Estão_A_qui_a_lista_de_Linguas_ID251_data_29_6_22_Dia_da_Entrega_da_caixinha_da_Mit_Fofuras__
+*
+*
+*
+*
+*
+*
+*
+
+
+</span>
+
 # [_] - $- 03 -$ - Escolha seu bichinho favorito - $- <Oculos_Para_OrfeO> -$
 
 https://support.mozilla.org/pt-BR/kb/abreviacao-de-localizacao?-------------------------------------------:robot:-------------------------------------------------------------------------------------------------
