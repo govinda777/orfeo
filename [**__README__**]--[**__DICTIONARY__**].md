@@ -1,3 +1,22 @@
+```python
+
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+def opniao_Sobre_Govinda_Systems(pensamento):
+    
+    # [_] - Processar pensamento sobre Govinda_Systems (fortes tendencias de ser um desiguilibrado)
+    
+    return None
+
+opniao_Alessandra_Fig = input('Qual é a sua opnião')
+obj = {}
+
+print(opniao_Sobre_Govinda_Systems(obj))
+
+
+```
+
 # Código de Ética e Moral
 
 ## Como fazer para compilar?
