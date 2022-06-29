@@ -1,3 +1,16 @@
+# [_] - $- 03 -$ - Escolha seu bichinho favorito - $- <Oculos_Para_OrfeO> -$
+
+https://support.mozilla.org/pt-BR/kb/abreviacao-de-localizacao?-------------------------------------------:robot:-------------------------------------------------------------------------------------------------
+
+https://support.mozilla.org/pt-BR/kb/abreviacao-de-localizacao?-------------------------------------------:bear:-------------------------------------------------------------------------------------------------
+
+https://support.mozilla.org/pt-BR/kb/abreviacao-de-localizacao?-------------------------------------------:hatched_chick:-------------------------------------------------------------------------------------------------
+
+:robot:
+:bear:
+:hatched_chick:
+
+
 __Estão_A_qui_a_lista_de_Linguas_ID251_data_29_6_22_Dia_da_Entrega_da_caixinha_da_Mit_Fofuras__
 
 Abreviação de Localização
