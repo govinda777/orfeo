@@ -36,14 +36,14 @@
 
 * <all>!="~Deus Good~"
 * <all>=<todos>
-* <all>=<integrantes do jogo>
+* <all>=<integrantes_do_jogo>
 
 ### Significado
 
-* <Easy>=               :unamused: 
-* Medium>=            :angry: 
-* Hard>=                 :rage: 
-* Very Hard>=         :skull: 
+* <Easy>=         :unamused: 
+* Medium>=        :angry: 
+* Hard>=          :rage: 
+* Very Hard>=     :skull: 
 * <~Impossible~>= :no_entry: 
 
 ### Jogo feito para pessoas que erram
