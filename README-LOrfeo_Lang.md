@@ -1,14 +1,14 @@
 # L'Orfeo Lang
 
-## <Programação_Orientada_A_Ativos> | <Asset_Oriented_Programming>
-## <Programação_Orientada_A_Ativos> | <Cash_Oriented_Programming>
-## <Programação_Orientada_A_Ativos> | <Money_Oriented_Programming>
-## <Programação_Orientada_A_Ativos> | <NFT_Oriented_Programming>
-## <Programação_Orientada_A_Ativos> | <NFT_Oriented_Programming>
-## <Programação_Orientada_A_Ativos> | <Crypto_Assets_Oriented_Programming>
-## <Programação_Orientada_A_Ativos> | <Smart_Contracts_Oriented_Programming>
-## <Programação_Orientada_a_Contratos_Inteligentes> | <Smart_Contracts_Oriented_Programming>=<Smart_Contracts> | <Blockchain> | <Leager> | <n..n>
-## 
+* <Programação_Orientada_A_Ativos> | <Asset_Oriented_Programming>
+* <Programação_Orientada_A_Ativos> | <Cash_Oriented_Programming>
+* <Programação_Orientada_A_Ativos> | <Money_Oriented_Programming>
+* <Programação_Orientada_A_Ativos> | <NFT_Oriented_Programming>
+* <Programação_Orientada_A_Ativos> | <NFT_Oriented_Programming>
+* <Programação_Orientada_A_Ativos> | <Crypto_Assets_Oriented_Programming>
+* <Programação_Orientada_A_Ativos> | <Smart_Contracts_Oriented_Programming>
+* <Programação_Orientada_a_Contratos_Inteligentes> | <Smart_Contracts_Oriented_Programming>=<Smart_Contracts> | <Blockchain> | <Leager> | <n..n>
+ 
 
 ## <Linguagem de programação orientada a Documentacao PadraoDeLayout UI UX Template Canal_De_Comunicacao ChatBot LOrfeo_Lang>
 
