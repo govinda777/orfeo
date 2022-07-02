@@ -38,7 +38,7 @@
 
 ## Exemplo de Comunicação | Contextos: Canais de comunicação como (Whats | Discord | Slack)
 
-* $- 10000 -$ <govinda777> - Saldo Total: 10000 - $- 00 -$ 
+* $- 10000 R$ -$ <govinda777> - Saldo Total: 10000 - $- 00 -$ 
 # $- 10000 -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 -$ 
 # $- 10000 -$ <govinda777> - É coisa pra caramba é melhor desistir - $- 00 -$ 
 # $- 50 -$ origin <Orfeo> from <govinda777> - Multa por ser depreciativo custo de 99 - $- -- 99 -$  
