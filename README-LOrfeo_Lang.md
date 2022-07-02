@@ -14,15 +14,12 @@
 ## <Linguagem de programação orientada a Documentacao PadraoDeLayout UI UX Template Canal_De_Comunicacao ChatBot LOrfeo_Lang>
 
 ## <LinguagemDeProgramacao Focada Na Igualdade>
-
 ## <LinguagemDeProgramacao Focada Na Transparencia>
-
 ## <LinguagemDeProgramacao Focada Na Ledger>
 ## <LinguagemDeProgramacao Focada Na Hyperladger>
 ## <LinguagemDeProgramacao Focada Na IA Comunication>
 ## <LinguagemDeProgramacao Focada Na People>
 ## <LinguagemDeProgramacao Focada Na People Comunication>
-
 ## <LinguagemDeProgramacao Focada Na People Voice>
 ## <LinguagemDeProgramacao Focada Na People Voz Da Comunidade>
 ## <LinguagemDeProgramacao Focada Na People Voice Community>
@@ -38,23 +35,19 @@
 ## <LinguagemDeProgramacao Focada Na Hermes Voice Fork>
 ## <LinguagemDeProgramacao Focada Na Leonidas Voice Fork>
 ## <LinguagemDeProgramacao Focada Na Kratos Voice Fork>
-
 ## <LinguagemDeProgramacao Focada Na Razao>
 
+# Exemplo de Comunicação | Contextos: Canais de comunicação como (Whats | Discord | Slack)
 
-# $- 10000 -$ <govinda777> - Esta ação não me getou custo nenhum - $- 00 -$ 
-
-# $- 10000 -$ <govinda777><~depreciativo~> - É coisa pra caramba é melhor desistir - $- --99 -$ 
-# $- 9901 -$ origin <orfeo> from <govinda777> - Multa por ser <~depreciativo~> - $- 00 -$ 
-
-# $- 9901 -$ <govinda777> - Multa por ser <~depreciativo~> - $- --99 -$ 
-# $- 9802 -$ <govinda777> - Saldo Total - $- 00 -$ 
-
-
-# $- 9802 -$ <govinda777> - <Sistema_De_Meda_Eu_Q_Te_Criei_VC_NAO_PODE_ME_MULTAR> - $- --99 -$ 
-# $- 9703 -$ <govinda777> - Saldo Total - $- 00 -$ 
-
-# $- 25 -$ <orfeo> - Posso sim, estou te multando agora, mais uma vez, por ter dito linguagem impropria no <README>=[<my-home>, <n..n>] publico  - $- 05 -$ 
+# $- 10000 -$ <govinda777> - Saldo Total: 10000 - $- 00 -$ 
+# $- 10000 -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 -$ 
+# $- 10000 -$ <govinda777> - É coisa pra caramba é melhor desistir - $- 00 -$ 
+# $- 50 -$ origin <Orfeo> from <govinda777> - Multa por ser depreciativo custo de 99 - $- -- 99 -$  
+# $- 9901 -$ <govinda777> - Saldo Total: 9901 - $- 00 -$ 
+# $- 50 -$ <Orfeo> - Saldo Total: 50 - $- 00 -$ 
+# $- 9901 -$ <govinda777> - <Sistema_De_Medar_Eu_Q_Te_Criei_VC_NAO_PODE_ME_MULTAR> - $- 00 -$ 
+# $- 50 -$ <Orfeo> | <govinda777> - Multa por linguagem impropria custo de 99 - $- -- 99 -$  
+# $- 9802 -$ <govinda777> - Saldo Total: 9802 - $- 00 -$ 
 
 
 ## Explicando o sistema de extrato
