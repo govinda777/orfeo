@@ -49,7 +49,6 @@
 # $- 50 -$ <Orfeo> | <govinda777> - Multa por linguagem impropria custo de 99 - $- -- 99 -$  
 # $- 9802 -$ <govinda777> - Saldo Total: 9802 - $- 00 -$ 
 
-
 ## Explicando o sistema de extrato
 
 # $- 100 -$ <govinda777_Exemplo> - Esta ação não me getou custo nenhum - $- 00 -$ 
@@ -106,10 +105,6 @@ Explicação :
 #Significado | -  [Status-Await] - Aguardando evidencia da resolução da tarefa para mandar a <recompensa> 
 #Significado | - $- 00 -$
 
-
-
-
-
 <adicionar_uma_tarefa_dependente>
 
 Essa ação :
@@ -117,6 +112,7 @@ Essa ação :
 ## Explicando um <~depreciativo~> (É coisa pra caramba é melhor desistir)
 
 <~depreciative~>=<valor><ativo>
+<~depreciative~>=<~depreCiativo~>
 
 <~depreCiativo~>=<~Receita depreciada~>
 
@@ -131,23 +127,16 @@ Essa ação :
 <~depreciative~>=<big_communication>=""
 <~depreciative~>=<big_communication>=""
 <~depreciative~>=<not_wip_limit>=""
-
-lack of communication
-
-
-
-* Translates
-
-    * <~depreciative~>=<~depreCiativo~>
-    * 
-    * 
-
+<~depreciative~>=<lack_of_communication>
 
 ## Gramática
 
-$- 10 -$ = "Representa uma valor e uma unidade monetária"
+"$- 10 -$ a esquerda terá um significado dependendo do contexto"
 
-$- 10 -$ [Qualquer coisa aqui dentro] $- 05 -$ = O $- 10 -$ ou seja unidade monetária a esqueda representa <- Comtas a pagar.
+## Gramática, contexto | Canais de comunicação
+
+
+$- 10 -$ ou seja unidade monetária a esqueda representa <- Contas a pagar.
 
 $- 10 -$ [Qualquer coisa aqui dentro] $- 05 -$ = O $- 05 -$ ou seja unidade monetária a direita representa -> O quanto já foi pago.
 
@@ -161,6 +150,19 @@ $- 10 -$ [Qualquer coisa aqui dentro] $- 05 -$ = O $- 05 -$ ou seja unidade mone
 
 -> $- 05 -$ != resultCalc
 
+## Comentários
+
+<!--
+
+<~depreciativo~>
+#Vc_Nao_Vai_Conseguir 
+🤖🤣🤭
+
+<ativo>
+#Vou_conseguir_sim_pois_tenho_BRIO 
+
+
+-->
 
 ## Dicionário de Semanticas 
 
