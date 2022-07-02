@@ -1,4 +1,4 @@
-$- 50 R$ -$ - <__LisTa_De_PeSSoAs__> - Defina essa imagem em 2 letras, exemplo : ed | y@ | oi | fk
+$- 499 R$ -$ - <__LisTa_De_PeSSoAs__> - Defina essa imagem em 2 letras, exemplo : ed | y@ | oi | fk
 .
 .
 .
@@ -6,7 +6,7 @@ $- 50 R$ -$ - <__LisTa_De_PeSSoAs__> - Defina essa imagem em 2 letras, exemplo :
 .
 * [**__Govinda_System__by_void__**]--[**__Coca-Cola__Natal__**]--[**__AMBEV__Colorado__**]
 
-# Propagan Space | #Tags
+# Propagan Space | Program Space | #Tags
 *
 *
 * Ação : Venda de um livro de 2 paginas com o valor de 500 R$
@@ -17,14 +17,28 @@ $- 50 R$ -$ - <__LisTa_De_PeSSoAs__> - Defina essa imagem em 2 letras, exemplo :
 * Objetivo_1 : Garanti que o cliente recebeu todo o seu dinheiro de volta
 * Objetivo_1 : desistir 
 * Objetivo_1 : desistir 
+* Objetivo_1 : desistir 
+* Objetivo_1 : desistir 
+* Objetivo_1 : desistir 
 # eu sou um pessimo 
 # (veja que nem a grafia de uma palavra eu sei fazer certo, em portugues é assim que se escreve péssimo)
 # J'avoue_que_olhei_no_google :smiling_face_with_tear: 
 # #escritorDeDuasPaginasSó #To_Aqui_agora_escrevendo_o_meu_prosimo_livro | errei de novo essa maldita grafia
-# #MasTraveiNaQuartaPagina #SeraQueOMeuProcessoDeCi&Cd_está_funcionando? , eu tinha uma ideia
+# #MasTraveiNaQuartaPagina #SeraQueOMeuProcessoDeCi&Cd_está_funcionando? #DeixaEuVer, eu tinha uma ideia
+* @govinda:~/projetos/orfeo$ orfeo publish my last book
+* 
 *
-*
-*
+
+py :
+
+response = Orfeo.publish().my().last_book()
+
+if response
+    print(response)
+
+# "<Orfeo> : Livro publicado com sucesso, quantidade de páginas 4 :rofl:"
+
+
 *
 * #EscritorVendeLivroZuadoDe4__páginas__e_o_Vende_pelo_dobro_do_Preço
 *
