@@ -38,18 +38,18 @@
 
 ## Exemplo de Comunicação | Contextos: Canais de comunicação como (Whats | Discord | Slack)
 
-* readme
+### readme
 ```readme
 
 $- 10000 RS -$ <@govinda777> - **Saldo Total: 10000** - $- 00 RS -$ 
-# $- 10000 -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 -$ 
-# $- 10000 -$ <govinda777> - É coisa pra caramba é melhor desistir - $- 00 -$ 
-# $- 50 -$ origin <Orfeo> from <govinda777> - Multa por ser depreciativo custo de 99 - $- -- 99 -$  
-# $- 9901 -$ <govinda777> - Saldo Total: 9901 - $- 00 -$ 
-# $- 50 -$ <Orfeo> - Saldo Total: 50 - $- 00 -$ 
-# $- 9901 -$ <govinda777> - <Sistema_De_Medar_Eu_Q_Te_Criei_VC_NAO_PODE_ME_MULTAR> - $- 00 -$ 
-# $- 50 -$ <Orfeo> | <govinda777> - Multa por linguagem impropria custo de 99 - $- -- 99 -$  
-# $- 9802 -$ <govinda777> - Saldo Total: 9802 - $- 00 -$ 
+$- 10000 -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 -$ 
+$- 10000 -$ <govinda777> - É coisa pra caramba é melhor desistir - $- 00 -$ 
+$- 50 -$ origin <Orfeo> from <govinda777> - Multa por ser depreciativo custo de 99 - $- -- 99 -$  
+$- 9901 -$ <govinda777> - Saldo Total: 9901 - $- 00 -$ 
+$- 50 -$ <Orfeo> - Saldo Total: 50 - $- 00 -$ 
+$- 9901 -$ <govinda777> - <Sistema_De_Medar_Eu_Q_Te_Criei_VC_NAO_PODE_ME_MULTAR> - $- 00 -$ 
+$- 50 -$ <Orfeo> | <govinda777> - Multa por linguagem impropria custo de 99 - $- -- 99 -$  
+$- 9802 -$ <govinda777> - Saldo Total: 9802 - $- 00 -$ 
 
 ```
 
