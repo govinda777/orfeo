@@ -33,7 +33,7 @@ Você também pode interagir com outros usuários em pull requests e problemas u
 ```
 
 ### CMD
-```cmd
+```shell
     @orfeo:~$ orfeo show #218
 ```
 
