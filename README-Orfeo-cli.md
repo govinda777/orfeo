@@ -4,7 +4,7 @@
 
 orfeo show #218
 
-## Mostrar informações task 218
+## `show` | Mostrar informações task 218
 
 ```shell
 orfeo show #218
