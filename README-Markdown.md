@@ -39,5 +39,5 @@ orfeo show #218
 
 ## Links
 
-* ["GitHub Flavored Markdown Spec"](https://github.github.com/gfm/)
-* ["readme.io"](https://rdmd.readme.io/docs)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+* [readme.io](https://rdmd.readme.io/docs)
