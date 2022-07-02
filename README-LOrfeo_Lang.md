@@ -42,43 +42,99 @@
 ```readme
 
 $- 10000 RS -$ <@govinda777> - **Saldo Total: 10000** - $- 00 RS -$ 
-$- 10000 -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 -$ 
-$- 10000 -$ <govinda777> - É coisa pra caramba é melhor desistir - $- 00 -$ 
-$- 50 -$ origin <Orfeo> from <govinda777> - Multa por ser depreciativo custo de 99 - $- -- 99 -$  
-$- 9901 -$ <govinda777> - Saldo Total: 9901 - $- 00 -$ 
-$- 50 -$ <Orfeo> - Saldo Total: 50 - $- 00 -$ 
-$- 9901 -$ <govinda777> - <Sistema_De_Medar_Eu_Q_Te_Criei_VC_NAO_PODE_ME_MULTAR> - $- 00 -$ 
-$- 50 -$ <Orfeo> | <govinda777> - Multa por linguagem impropria custo de 99 - $- -- 99 -$  
-$- 9802 -$ <govinda777> - Saldo Total: 9802 - $- 00 -$ 
+$- 10000 RS -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 RS -$ 
+$- 10000 RS -$ <govinda777> - É coisa pra caramba é melhor desistir - $- 00 RS -$ 
+$- 50 RS -$ origin <Orfeo> from <govinda777> - Multa por ser depreciativo custo de 99 - $- -- 99 RS -$  
+$- 9901 RS -$ <govinda777> - Saldo Total: 9901 - $- 00 RS -$ 
+$- 50 RS -$ <Orfeo> - Saldo Total: 50 - $- 00 RS -$ 
+$- 9901 RS -$ <govinda777> - <Sistema_De_Medar_Eu_Q_Te_Criei_VC_NAO_PODE_ME_MULTAR> - $- 00 RS -$ 
+$- 50 RS -$ <Orfeo> | <govinda777> - Multa por linguagem impropria custo de 99 - $- -- 99 RS -$  
+$- 9802 RS -$ <govinda777> - Saldo Total: 9802 - $- 00 RS -$ 
 
 ```
 
 ## Explicando o sistema de extrato
 
-# $- 100 -$ <govinda777_Exemplo> - Esta ação não me getou custo nenhum - $- 00 -$ 
+### readme
+```readme
 
-# $- 100 -$ <govinda777_Exemplo> - Esta ação me gerou o custo de - $- --10 -$ 
+$- 100 -$ <govinda777_Exemplo> - Esta ação não me getou custo nenhum - $- 00 -$ 
+$- 100 -$ <govinda777_Exemplo> - Esta ação me gerou o custo de - $- --10 -$ 
+$- 90 -$ <govinda777_Exemplo><~depreciativo~> - Esta ação me gerou o custo de - $- --10 -$ 
+$- 80 -$ <govinda777_Exemplo> - Este é o meu saldo - $- 00 -$ #EsseFoiOCustoParaEuVerOMeuSaldo
+$- 80 -$ <govinda777_Exemplo> - Este é o meu saldo - $- 00 -$ #EsseFoiOCustoParaEuVerOMeuSaldo
 
-# $- 90 -$ <govinda777_Exemplo><~depreciativo~> - Esta ação me gerou o custo de - $- --10 -$ 
-# $- 80 -$ <govinda777_Exemplo> - Este é o meu saldo - $- 00 -$ #EsseFoiOCustoParaEuVerOMeuSaldo
-# $- 80 -$ <govinda777_Exemplo> - Este é o meu saldo - $- 00 -$ #EsseFoiOCustoParaEuVerOMeuSaldo
-
+```
 ## <Explicando_o_sistema_de_extrato> | <Tranferencia_Entre_Contas>
 
 * Direção : 
+
 origin <orfeo> from <govinda777>
 
-# $- 80 GOVIN_TEST -$ origin <~depreciativo~><govinda777_Exemplo> from <orfeo> - Transferencia monetária para o ambiente de teste do <orfeo> afim de possibilitar dele utilizar o ambiente de teste - $- 10 -$ 
+```bash
 
-# $- 70 80 GOVIN_TEST -$ <govinda777_Exemplo> - Saldo Total - $- 00 -$
-# $- 10 GOVIN_TEST -$ <orfeo> - Saldo Total - $- 00 -$
+$- 80 GOVIN_TEST -$ origin <govinda777> from <orfeo> - Transferencia monetária para o ambiente de teste do <orfeo> afim de possibilitar dele utilizar o ambiente de teste - $- --10 -$ 
 
+$- 70 GOVIN_TEST -$ <govinda777> - Saldo Total: 70 - $- 00 -$
 
-## Enviando uma mensagem P2P
+$- 10 GOVIN_TEST -$ <orfeo> - Saldo Total: 10 - $- 00 -$
 
-origin <orfeo> from <govinda777_Exemplo>
+$- 70 GOVIN_TEST -$ origin <govinda777> from <orfeo> - Transferencia monetária para o ambiente de teste do <orfeo> afim de possibilitar dele utilizar o ambiente de teste - $- --10 -$ 
 
-# $- 10 GOVIN_TEST -$ origin <orfeo> from <govinda777_Exemplo> - Muito obrigado, essas moedas irão me ajudar a evoluir - $- 00 -$
+$- 60 GOVIN_TEST -$ <govinda777> - Saldo Total: 60 - $- 00 -$
+
+$- 20 GOVIN_TEST -$ <orfeo> - Saldo Total: 20 - $- 00 -$
+
+```
+
+## Enviando uma mensagem P2P Publica
+
+```bash
+
+Sintax:
+
+¨origin¨ <Pessoa_de_Origem> ¨from¨ <Pessoa_de_destino>
+
+||
+
+origin <orfeo> from <govinda777> - Muito obrigado, essas moedas irão me ajudar a evoluir -
+
+||
+
+<orfeo> | <govinda777> - Outra forma de fazer a mesma coisa -
+
+||
+
+<orfeo>|<govinda777> - Outra forma de fazer a mesma coisa -
+
+```
+
+## Enviando uma mensagem P2P privada
+
+```bash
+
+Sintax:
+
+¨origin¨ <Pessoa_de_Origem> ¨from¨ <Pessoa_de_destino> - Messege
+
+||
+
+<Pessoa_de_Origem> | <Pessoa_de_destino> - Messege
+
+||  
+
+origin <orfeo> from <govinda777> - Muito obrigado, essas moedas irão me ajudar a evoluir -
+
+||
+
+<orfeo> | <govinda777> - Outra forma de fazer a mesma coisa -
+
+||
+
+<orfeo>|<govinda777> - Outra forma de fazer a mesma coisa -
+
+```
+
 
 origin <govinda777_Exemplo> from <orfeo>
 
