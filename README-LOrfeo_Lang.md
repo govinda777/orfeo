@@ -40,7 +40,7 @@
 
 ```readme
 
-$- 10000 RS -$ <@govinda777> - Saldo Total: 10000 - $- 00 RS -$ 
+$- 10000 RS -$ <@govinda777> - **Saldo Total: 10000** - $- 00 RS -$ 
 # $- 10000 -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 -$ 
 # $- 10000 -$ <govinda777> - É coisa pra caramba é melhor desistir - $- 00 -$ 
 # $- 50 -$ origin <Orfeo> from <govinda777> - Multa por ser depreciativo custo de 99 - $- -- 99 -$  
