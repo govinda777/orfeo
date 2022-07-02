@@ -1,8 +1,4 @@
-
-
-## orfeo show <card_id> | "Mostra informações de um card"
-
-orfeo show #218
+# Orfeo cli
 
 ## `show <card_id>` | Mostrar informações task 218
 
@@ -23,3 +19,7 @@ orfeo show #218
     $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool
 
 ```
+
+## Links
+
+* [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/)
