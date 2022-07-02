@@ -38,8 +38,39 @@
 
 ## Exemplo de Comunicação | Contextos: Canais de comunicação como (Whats | Discord | Slack)
 
-### readme
-```readme
+
+> Python
+
+```py
+
+from typing import Callable, Optional
+from orfeo import orfeo
+
+def send(origin: str, destination: str, callback: Callable[[int, Optional[str]], bool]) -> bool:
+   # Send msg code ...
+   result = callback(origin, destination, "Sucesso")
+   return result
+
+def callback(origin: str, destination: str, message: Optional[str]) -> bool:
+   print(val)
+   if message:
+       print(message)
+   return val > 0
+  
+orfeo.message.send("govinda777", "Tata", callback)
+
+```
+
+> cli
+
+```bash
+
+orfeo 
+
+
+```
+
+```bash
 
 $- 10000 RS -$ <@govinda777> - **Saldo Total: 10000** - $- 00 RS -$ 
 $- 10000 RS -$ <govinda777> - Esta ação não me getou custo e nem lucro nenhum  - $- 00 RS -$ 
@@ -55,8 +86,8 @@ $- 9802 RS -$ <govinda777> - Saldo Total: 9802 - $- 00 RS -$
 
 ## Explicando o sistema de extrato
 
-### readme
-```readme
+
+```bash
 
 $- 100 -$ <govinda777_Exemplo> - Esta ação não me getou custo nenhum - $- 00 -$ 
 $- 100 -$ <govinda777_Exemplo> - Esta ação me gerou o custo de - $- --10 -$ 
@@ -65,11 +96,18 @@ $- 80 -$ <govinda777_Exemplo> - Este é o meu saldo - $- 00 -$ #EsseFoiOCustoPar
 $- 80 -$ <govinda777_Exemplo> - Este é o meu saldo - $- 00 -$ #EsseFoiOCustoParaEuVerOMeuSaldo
 
 ```
+
 ## <Explicando_o_sistema_de_extrato> | <Tranferencia_Entre_Contas>
 
 * Direção : 
 
-origin <orfeo> from <govinda777>
+```bash
+
+origin <orfeo> from <govinda777> - []Messege
+
+```
+
+* Exemplo de transferencias :
 
 ```bash
 
@@ -84,6 +122,7 @@ $- 70 GOVIN_TEST -$ origin <govinda777> from <orfeo> - Transferencia monetária 
 $- 60 GOVIN_TEST -$ <govinda777> - Saldo Total: 60 - $- 00 -$
 
 $- 20 GOVIN_TEST -$ <orfeo> - Saldo Total: 20 - $- 00 -$
+
 
 ```
 
