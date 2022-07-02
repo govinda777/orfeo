@@ -12,8 +12,16 @@ $- <Acesso_kanbanTool> -$
 - <Tata> - Desbloqueio seu acesso ao <kanbanTool> me seguindo como amigo no <git> - 
 $- <Acesso_kanbanTool> -$ $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool
 
+@orfeo:~$ orfeo show #219
+
+$- <Acesso_kanbanTool> -$ 
+- <Tata> - Desbloqueio seu acesso ao <kanbanTool> me seguindo como amigo no <git> - 
+$- <Acesso_kanbanTool> -$ $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool
 
 ## Mais detalhes
 
+@orfeo:~$ orfeo show #218
 
-
+$- <Acesso_kanbanTool> -$ 
+- <Tata> - Desbloqueio seu acesso ao <kanbanTool> me seguindo como amigo no <git> - 
+$- <Acesso_kanbanTool> -$ $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool

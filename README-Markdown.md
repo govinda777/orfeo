@@ -32,6 +32,11 @@ Você também pode interagir com outros usuários em pull requests e problemas u
 
 ```
 
+### CMD
+```cmd
+    @orfeo:~$ orfeo show #218
+```
+
 ## Links
 
 ["GitHub Flavored Markdown Spec"](https://github.github.com/gfm/)
