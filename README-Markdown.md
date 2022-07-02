@@ -34,7 +34,7 @@ Você também pode interagir com outros usuários em pull requests e problemas u
 
 ### CMD
 ```shell
-    @orfeo:~$ orfeo show #218
+orfeo show #218
 ```
 
 ## Links
