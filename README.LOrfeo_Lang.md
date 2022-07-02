@@ -10,7 +10,7 @@
 * <Programação_Orientada_A_Contratos_Inteligentes> | <Smart_Contracts_Oriented_Programming> | <Smart_Contracts> | <_Blockchain_> | <_Leager_> | <n..n>
  
 
-## Linguagem de programação orientada a Documentacao PadraoDeLayout UI UX Template Canal_De_Comunicacao ChatBot LOrfeo_Lang
+## Linguagem de programação orientada a Documentacao | PadraoDeLayout | UI | UX | Template | Canal_De_Comunicacao | ChatBot LOrfeo_Lang
 
 * <LinguagemDeProgramacao_Focada_Na_Igualdade>
 * <LinguagemDeProgramacao_Focada_Na_Transparencia>

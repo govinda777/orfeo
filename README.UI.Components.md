@@ -1,10 +1,43 @@
 # Components
 
-## Links
+# Markdown
 
-[link_para_vc_me_ensinar](https://github.com/govinda777/orfeo/blob/main/README-Como_me_ensinar.md)
+Markdown é uma sintaxe de leitura e gravação fáceis para formatação de texto sem formatação.
 
-[Link_do_seu_repositorio](https://github.com/pedrokioshi)
+Adicionamos algumas funcionalidades personalizadas para criar o markdown em estilo GitHub, usadas para formatar prosa e código em nosso site.
+
+Você também pode interagir com outros usuários em pull requests e problemas usando recursos como @menções, referências a problemas e pull request e emoji.
+
+## Mencionar pessoas e equipes
+
+* @github/suporte O que você acha dessas atualizações?
+
+## Fazer referências a problemas e pull requests
+
+#218 - Card
+
+#3 - issues
+
+## Code Blocks
+
+### Python
+```py
+    print('Code py');
+```
+
+### Readme
+```readme
+    
+# Title 1
+
+## Sub title 1
+
+```
+
+### CMD
+```shell
+orfeo show #218
+```
 
 ## Tasks
 
@@ -29,7 +62,7 @@ Teste 123[^1]
 
 # Image
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+* ![img](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
 # Video
 
@@ -40,18 +73,18 @@ Teste 123[^1]
 ## Video Reference Summarized
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
-https://www.youtube.com/watch?v=UVtgFN3K6kE
+### https://www.youtube.com/watch?v=UVtgFN3K6kE
 
 ## Video Reference Complete
 
 > # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+### https://youtu.be/R8_veQiYBjI
 
 
 ## Video Reference Complete with more elements
 
 > # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+### https://youtu.be/R8_veQiYBjI
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
 
@@ -87,37 +120,6 @@ graph TD;
     B-->D;
     C-->D;
 ```
-
-## Mapas geofraficos (mapas do geoJSON e topoJSON)
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
-
 
 ## Subscribe Button
 
@@ -191,6 +193,13 @@ https://github.com/govinda777/profile
 ## Next steps
 
 Criar uma automação para os compoenentes usando o gulpfile
+
+## Links
+
+* [link_para_vc_me_ensinar](https://github.com/govinda777/orfeo/blob/main/README-Como_me_ensinar.md)
+* [Link_do_seu_repositorio](https://github.com/pedrokioshi)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+* [readme.io](https://rdmd.readme.io/docs)
 
 ## Footer
 

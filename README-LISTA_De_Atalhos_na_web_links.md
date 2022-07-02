@@ -1,1 +1,0 @@
-Abreviação de Localização : https://support.mozilla.org/pt-BR/kb/abreviacao-de-localizacao

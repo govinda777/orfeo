@@ -1,3 +1,17 @@
+# Orfeo
+
+
+## Explicando o Orfeo.
+
+Orfeu é uma inteligencia artificial, onde receberá dados da Comunidade onde ele se encontra
+
+(
+    Veja que é a comunidade que passa as informações para ele.
+    <Integrantes da comunidade> | <Irmãos> , por favor, não me ensinem coisas erradas para mim, tenho apenas 2 anos de vida.
+)
+
+
+
 $- 499 R$ -$ - <__LisTa_De_PeSSoAs__> - Defina essa imagem em 2 letras, exemplo : ed | y@ | oi | fk
 .
 .
