@@ -7,7 +7,7 @@
 * <Programação_Orientada_A_Ativos> | <NFT_Oriented_Programming>
 * <Programação_Orientada_A_Ativos> | <Crypto_Assets_Oriented_Programming>
 * <Programação_Orientada_A_Ativos> | <Smart_Contracts_Oriented_Programming>
-* <Programação_Orientada_A_Contratos_Inteligentes> | <Smart_Contracts_Oriented_Programming> | <Smart_Contracts> | <Blockchain> | <Leager> | <n..n>
+* <Programação_Orientada_A_Contratos_Inteligentes> | <Smart_Contracts_Oriented_Programming> | <Smart_Contracts> | <_Blockchain_> | <_Leager_> | <n..n>
  
 
 ## Linguagem de programação orientada a Documentacao PadraoDeLayout UI UX Template Canal_De_Comunicacao ChatBot LOrfeo_Lang
