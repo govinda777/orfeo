@@ -38,6 +38,7 @@
 
 ## Exemplo de Comunicação | Contextos: Canais de comunicação como (Whats | Discord | Slack)
 
+* readme
 ```readme
 
 $- 10000 RS -$ <@govinda777> - **Saldo Total: 10000** - $- 00 RS -$ 
