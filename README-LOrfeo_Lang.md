@@ -7,34 +7,34 @@
 * <Programação_Orientada_A_Ativos> | <NFT_Oriented_Programming>
 * <Programação_Orientada_A_Ativos> | <Crypto_Assets_Oriented_Programming>
 * <Programação_Orientada_A_Ativos> | <Smart_Contracts_Oriented_Programming>
-* <Programação_Orientada_a_Contratos_Inteligentes> | <Smart_Contracts_Oriented_Programming>=<Smart_Contracts> | <Blockchain> | <Leager> | <n..n>
+* <Programação_Orientada_A_Contratos_Inteligentes> | <Smart_Contracts_Oriented_Programming> | <Smart_Contracts> | <Blockchain> | <Leager> | <n..n>
  
 
-## <Linguagem de programação orientada a Documentacao PadraoDeLayout UI UX Template Canal_De_Comunicacao ChatBot LOrfeo_Lang>
+## Linguagem de programação orientada a Documentacao PadraoDeLayout UI UX Template Canal_De_Comunicacao ChatBot LOrfeo_Lang
 
-## <LinguagemDeProgramacao Focada Na Igualdade>
-## <LinguagemDeProgramacao Focada Na Transparencia>
-## <LinguagemDeProgramacao Focada Na Ledger>
-## <LinguagemDeProgramacao Focada Na Hyperladger>
-## <LinguagemDeProgramacao Focada Na IA Comunication>
-## <LinguagemDeProgramacao Focada Na People>
-## <LinguagemDeProgramacao Focada Na People Comunication>
-## <LinguagemDeProgramacao Focada Na People Voice>
-## <LinguagemDeProgramacao Focada Na People Voz Da Comunidade>
-## <LinguagemDeProgramacao Focada Na People Voice Community>
-## <LinguagemDeProgramacao Focada Na People Voice Community>
-## <LinguagemDeProgramacao Focada Na People Voice Tribe>
-## <LinguagemDeProgramacao Focada Na People Voice Clan>
-## <LinguagemDeProgramacao Focada Na People Voice Fork>
-## <LinguagemDeProgramacao Focada Na People Voice Garfo>
-## <LinguagemDeProgramacao Focada Na Archangel Voice Fork>
-## <LinguagemDeProgramacao Focada Na Ganesha Voice Fork>
-## <LinguagemDeProgramacao Focada Na govinda777 Voice Fork>
-## <LinguagemDeProgramacao Focada Na Andrea Voice Fork>
-## <LinguagemDeProgramacao Focada Na Hermes Voice Fork>
-## <LinguagemDeProgramacao Focada Na Leonidas Voice Fork>
-## <LinguagemDeProgramacao Focada Na Kratos Voice Fork>
-## <LinguagemDeProgramacao Focada Na Razao>
+* <LinguagemDeProgramacao_Focada_Na_Igualdade>
+* <LinguagemDeProgramacao_Focada_Na_Transparencia>
+* <LinguagemDeProgramacao_Focada_Na_Ledger>
+* <LinguagemDeProgramacao_Focada_Na_Hyperladger>
+* <LinguagemDeProgramacao_Focada_Na_IA_Comunication>
+* <LinguagemDeProgramacao_Focada_Na_People>
+* <LinguagemDeProgramacao_Focada_Na_People_Comunication>
+* <LinguagemDeProgramacao_Focada_Na_People_Voice>
+* <LinguagemDeProgramacao_Focada_Na_People_Voz_Da_Comunidade>
+* <LinguagemDeProgramacao_Focada_Na_People_Voice_Community>
+* <LinguagemDeProgramacao_Focada_Na_People_Voice_Community>
+* <LinguagemDeProgramacao_Focada_Na_People_Voice_Tribe>
+* <LinguagemDeProgramacao_Focada_Na_People_Voice_Clan>
+* <LinguagemDeProgramacao_Focada_Na_People_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_People_Voice_Garfo>
+* <LinguagemDeProgramacao_Focada_Na_Archangel_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_Ganesha_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_govinda777_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_Andrea_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_Hermes_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_Leonidas_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_Kratos_Voice_Fork>
+* <LinguagemDeProgramacao_Focada_Na_Razao>
 
 # Exemplo de Comunicação | Contextos: Canais de comunicação como (Whats | Discord | Slack)
 
