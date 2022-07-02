@@ -6,22 +6,20 @@ orfeo show #218
 
 ## Mostrar informações task 218
 
-@orfeo:~$ orfeo show #218
+```shell
+orfeo show #218
+```
 
-$- <Acesso_kanbanTool> -$ 
-- <Tata> - Desbloqueio seu acesso ao <kanbanTool> me seguindo como amigo no <git> - 
-$- <Acesso_kanbanTool> -$ $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool
+### Resposta :
 
-@orfeo:~$ orfeo show #219
+```shell
 
-$- <Acesso_kanbanTool> -$ 
-- <Tata> - Desbloqueio seu acesso ao <kanbanTool> me seguindo como amigo no <git> - 
-$- <Acesso_kanbanTool> -$ $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool
+<Valor_do_cart> : $- 99 R$ -$ 
+<Responsável>   : - <Tata> 
+<Descrição>     : - Desbloqueio seu acesso ao <kanbanTool> me seguindo como amigo no <git> - 
+<Lista_contas_a_pagar> : 
+    $- --99 R$ -$ #Valor_devido_ao_responsável
+    $- <Acesso_kanbanTool> -$ #Licença_a_ferramenta_kanbanTool
+    $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool
 
-## Mais detalhes
-
-@orfeo:~$ orfeo show #218
-
-$- <Acesso_kanbanTool> -$ 
-- <Tata> - Desbloqueio seu acesso ao <kanbanTool> me seguindo como amigo no <git> - 
-$- <Acesso_kanbanTool> -$ $- --5 $ -$ #custo_de_um_usuario_no_kanbanTool
+```
