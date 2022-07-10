@@ -9,3 +9,13 @@ npm install
 
 ```
 
+## Como iniciar
+
+
+```cmd
+
+npm start
+
+```
+
+
