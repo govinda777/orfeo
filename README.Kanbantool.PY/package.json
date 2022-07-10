@@ -4,13 +4,15 @@
   "description": "Programa em py para comunicação do orfeo com a ferramenta kanban tool",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "python3 jogos.py",
+    "test": "echo \"Error: Teste 124 no test specified\" && exit 1"
   },
   "keywords": [
     "py",
     "kanbantool",
     "kanban",
-    "tool"
+    "tool",
+    "https%3A%2F%2Fcursos.alura.com.br%2Fcourse%2Fpython-3-avancando-na-linguagem%2Ftask%2F25515"
   ],
   "author": "",
   "license": "MIT"
