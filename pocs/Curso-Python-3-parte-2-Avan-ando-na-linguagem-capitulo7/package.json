@@ -15,5 +15,8 @@
     "https://www.alura.com.br/curso-online-python-3-avancando-na-linguagem"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "pytest": "^1.0.0"
+  }
 }

@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "Projeto de teste em python",
   "main": "index.js",
-  "directories": {
-    "test": "python3 "
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "pytest tests/"
   },
   "keywords": [
     "py",

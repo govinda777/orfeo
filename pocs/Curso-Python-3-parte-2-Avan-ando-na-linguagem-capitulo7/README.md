@@ -17,5 +17,14 @@ npm install
 npm start
 
 ```
+## Como testar
+
+
+```cmd
+
+npm test
+
+```
+
 
 
