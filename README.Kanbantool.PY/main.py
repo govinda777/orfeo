@@ -5,16 +5,19 @@ def main():
     print("*******Escolha o seu jogo!*******")
     print("*********************************")
 
-    print("(1) Forca (2) Adivinhação")
+    print("(1) Forca (2) Adivinhação (3) Teste New")
 
-    jogo = int(input("Qual jogo? "))
+    item = int(input("Qual item? "))
 
-    if(jogo == 1):
+    if(item == 1):
         print("Jogando forca")
         forca.jogar()
-    elif(jogo == 2):
+    elif(item == 2):
         print("Jogando adivinhação")
         adivinhacao.jogar()
+    elif(item == 3):
+        print("List Boards")
+        board.list()
 
 if(__name__ == "__main__"):
     main()
