@@ -1,0 +1,17 @@
+{
+  "name": "readme.kanbantool.py",
+  "version": "1.0.0",
+  "description": "Programa em py para comunicação do orfeo com a ferramenta kanban tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "py",
+    "kanbantool",
+    "kanban",
+    "tool"
+  ],
+  "author": "",
+  "license": "MIT"
+}
