@@ -1,0 +1,20 @@
+{
+  "name": "pocs.curso.testes-python",
+  "version": "1.0.0",
+  "description": "Projeto de teste em python",
+  "main": "index.js",
+  "directories": {
+    "test": "python3 "
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "py",
+    "python",
+    "test",
+    "tdd"
+  ],
+  "author": "",
+  "license": "MIT"
+}
