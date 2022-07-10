@@ -4,7 +4,7 @@
   "description": "Programa em py para comunicação do orfeo com a ferramenta kanban tool",
   "main": "index.js",
   "scripts": {
-    "start": "python3 jogos.py",
+    "start": "python3 main.py",
     "test": "echo \"Error: Teste 124 no test specified\" && exit 1"
   },
   "keywords": [
