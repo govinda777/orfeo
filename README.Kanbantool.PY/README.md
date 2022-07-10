@@ -18,4 +18,12 @@ npm start
 
 ```
 
+## Como testar
+
+
+```cmd
+
+npm test
+
+```
 
