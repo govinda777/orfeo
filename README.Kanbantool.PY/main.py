@@ -1,4 +1,4 @@
-from kanbantool import *
+from src import *
 
 def main():
     print("*********************************")

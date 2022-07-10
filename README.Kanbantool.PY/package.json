@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "python3 main.py",
-    "test": "echo \"Error: Teste 124 no test specified\" && exit 1"
+    "test": "pytest test/"
   },
   "keywords": [
     "py",
@@ -15,5 +15,8 @@
     "https%3A%2F%2Fcursos.alura.com.br%2Fcourse%2Fpython-3-avancando-na-linguagem%2Ftask%2F25515"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "pytest": "^1.0.0"
+  }
 }
