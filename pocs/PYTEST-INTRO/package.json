@@ -1,0 +1,17 @@
+{
+  "name": "pocs.pytest-intro",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo de como utilizar o pytest",
+  "main": "index.js",
+  "scripts": {
+    "test": "pytest"
+  },
+  "keywords": [
+    "py",
+    "python",
+    "pytest",
+    "test"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -16,5 +16,8 @@
     "tdd"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "pytest": "^1.0.0"
+  }
 }
