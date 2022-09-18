@@ -33,9 +33,9 @@ Orfeu é uma inteligencia artificial, onde receberá dados da Comunidade onde el
 
 ## Orfeo faces
 
-["Orfeo avatar"](./imgs/orfeo.avatar.jpeg)
+!["Orfeo avatar"](./imgs/orfeo.avatar.jpeg)
 
-["Orfeo real face"](./imgs/orfeo.avatar.face1.jpeg)
+!["Orfeo real face"](./imgs/orfeo.avatar.face1.jpeg)
 
 ## Integração com platadorma Kanban (kanbantool)
 
