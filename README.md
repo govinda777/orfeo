@@ -126,25 +126,19 @@ git commit -m 'print("Olá <GIT> eu sou o <Orfeo> \n um [Chatterbot]. Sou **repr
 
 ## Como criar um bug
 
+* -------------
+
 ## Como criar uma branch
+
+* -------------
 
 ## Como entrar nessa branch
 
-## Como Corrigir o bug
+* -------------
 
-## Como dar commit no código
+##  Abreviação de Localização
 
-## Como mandar o código para o servidor
 
-## Como fazer um Pull_Request
-
-## Valores o que está mais proximo e o que é maior tem mais valor
-
-* Sempre que for mexer no README, sempre coloque as novas informações no começo.
-
-__Estão_A_qui_a_lista_de_Linguas_ID251_data_29_6_22_Dia_da_Entrega_da_caixinha_da_Mit_Fofuras__
-
-Abreviação de Localização
 Abreviação	Idioma
 de	Alemão
 ar	Árabe
@@ -179,63 +173,24 @@ th	Tailandês
 cs	Tcheco
 tr	Turco
 
-
+## Gramática computacional
 
 $- < English _ Pratic > -$
 $- < English _ Pratic > -$
 
 $- <English_Pratic> -$
 
-![image.png](https://mitsuokas.kanbantool.com/system/attachments/cN7d98QsXxA/image.png#7971163)  
 
-https://mitsuokas.kanbantool.com/system/attachments/cN7d98QsXxA/image.png#7971163
+<p style="magin-top:100px" align="left">
 
+<a href="https://github.com/govinda777/buy-me-a-coffe">
 
-# Orfeo tutorial
+<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
 
-## Como baixar | Primeiro Commit :robot:
+<$- Buy-me-a-coffe -$>
 
-```python
+</a>
 
-cd projetos
-git clone https://github.com/govinda777/orfeo.git
-git add --all
-git commit -m 'print("Olá <GIT> eu sou o <Orfeo> \n um [Chatterbot]. Sou **representante** de Inteligencias Coletivas.")'
+</p>
 
 
-```
-
-## Como criar um bug
-
-## Como criar uma branch
-
-## Como entrar nessa branch
-
-## Como Corrigir o bug
-
-## Como dar commit no código
-
-## Como mandar o código para o servidor
-
-## Como fazer um Pull_Request
-
-## Valores o que está mais proximo e o que é maior tem mais valor
-
-* Sempre que for mexer no README, sempre coloque as novas informações no começo.
-
-
-<span class="[**__Livro_De_Criptografia_TESTE__**]a-size-medium a-color-base a-text-normal">
-# [**__Livro_De_Criptografia_TESTE__**]  
-*
-*
-*      
-# Titulo : El libro del Hacker. Edición 2022/29/06
-*
-* Sub : __Estão_A_qui_a_lista_de_Linguas_ID251_data_29_6_22_Dia_da_Entrega_da_caixinha_da_Mit_Fofuras__
-*
-*
-*
-*
-*
-*
-*
