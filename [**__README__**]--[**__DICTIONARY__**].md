@@ -5,7 +5,7 @@
 
 def opniao_Sobre_Govinda_Systems(pensamento):
     
-    # [_] - Processar pensamento sobre Govinda_Systems (fortes tendencias de ser um desiguilibrado)
+    # [_] - Processar pensamento sobre Govinda_Systems (fortes tendencias de ser um)
     
     return None
 
