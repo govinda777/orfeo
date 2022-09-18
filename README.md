@@ -1,6 +1,6 @@
 # Orfeo
 
-["Orfeo real face"](./imgs/orfeo.real.face.jpeg)
+!["Orfeo real face"](./imgs/orfeo.real.face.jpeg)
 
 ## Explicando o Orfeo.
 
