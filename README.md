@@ -4,7 +4,7 @@
 
 ## Explicando o Orfeo.
 
-Orfeu é uma inteligencia artificial, onde receberá dados da Comunidade onde ele se encontra
+Orfeu é uma inteligencia artificial, onde receberá dados da Comunidade onde ele se encontra e executará tarefas pré programadas.
 
 (
 * Veja que é a comunidade que passa as informações para ele.
@@ -14,10 +14,93 @@ Orfeu é uma inteligencia artificial, onde receberá dados da Comunidade onde el
 ```
 )
 
+- Chatterbot como canal de comunicação.
+- Robo amigo da comunidade, afim de apoiar os novos e atuais integrantes com suas tarefas.
+- Robo que ajudará nas relações inter pessoais das pessoas na comunidade.
+
+## Objetivo
+
+O grande objetivo do Orfeo é ser uma consciencia artificial estendida da comunidade.
+
+Tem como méta :
+
+- [_] Apoiar na integração dos novos individuos da comunidade.
+- [_] Ser um canal de comunicação com os integrantes.
+- [_] Executar tarefas previamente programadas (a comunidade poderá ensinar o Orfeo)
+- [_] 
+
+## Personalidade
+
+- Senso de humor
+- Objetividade (afinal é um robo)
+
+## Regras gramaticais
+
+<Ativo> = Ativo | Asset | Tudo que tem valor
+
+$- 99 -$  = Valor monetário a receber.
+$- -99 -$ = Valor monetário a pagar.
+
+## Compilador
+
+Verificação de regras e lógicas gramaticais
+
+## Utilizo Python pra que?  (https://www.python.org/)
+
+Executar tarefas automatizadas.
+
+## Utilizo README pra que?  
+
+Marcdown corresponde a parte da forma de se escreber código no Orfeo
+
+(https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Utilizo Nodejs e Gulp pra que?
+
+Ferramenta para compilação e compactação do código.
+
+## Como que eu faço para responder um pergunta?
+
+Inicialmente as perguntas são repassadas para a comunidade e o Orfeo ajudará na integração do participante a comunidade.
+
+# Linguistica
+
+![](./imgs/1.jpeg)
+![](./imgs/2.jpeg)
+
+https://www.alexandrefelix.com.br/post/resenha-l%C3%ADngua-liberdade-apontamentos-lingu%C3%ADsticos-estampados-no-jornal
 
 
 
-## Como encinar o Orfeo a fazer uma tarefa pra você ?
+## Como cadastrar uma piada
+
+```py
+
+orfeo.joke.append"Piada") orfeo.joke.append("http://piada.link"
+
+```
+
+## Antes de me fazer uma pergunta, vê primeiro se o Google não sabe. 
+
+```py 
+
+print("Sempre é bom consultar os mais velhos") 
+
+```
+
+## Execução de tarefas repetitivas
+
+```py 
+
+print("Eu posso te ajudar a escrever e compartilhar seu Artigo.
+
+```
+
+## Eu posso te ajudar a compartilhar e catalogar informações. (com isso eu tambem fico mais esperto, porem vc terá que falar a minha lingua)
+
+...............
+
+## Como ensinar o Orfeo a fazer uma tarefa pra você ?
 
 ["L'Orfeo tutorial-1"](./README.LOrfeo_Lang.md)
 
@@ -25,7 +108,11 @@ Orfeu é uma inteligencia artificial, onde receberá dados da Comunidade onde el
 
 ["L'Orfeo tutorial-2"](./README.LOrfeo_Lang.md)
 
-> Obs: Na verdade o orfeo sempre irá perguntar para a comunidade primeiro e irá registrar a resposta na Wiki da empresa.
+> Obs: O orfeo sempre irá perguntar para a comunidade primeiro e irá registrar a resposta na Wiki da empresa.
+
+## Como cadastrar itens no dicionário
+
+...........
 
 ## Tarefas
 
@@ -128,58 +215,35 @@ git commit -m 'print("Olá <GIT> eu sou o <Orfeo> \n um [Chatterbot]. Sou **repr
 
 * -------------
 
-## Como criar uma branch
+## Cursos
 
-* -------------
+![](./imgs/3.jpeg)
 
-## Como entrar nessa branch
+https://cursos.alura.com.br/formacao-tecnicas-processamento-linguagem-natural?$cupom$
 
-* -------------
+![](./imgs/4.jpeg)
 
-##  Abreviação de Localização
+https://cursos.alura.com.br/formacao-tecnicas-processamento-linguagem-natural?$cupom$
 
+![](./imgs/5.jpeg)
 
-Abreviação	Idioma
-de	Alemão
-ar	Árabe
-bn-BD	Bengali-Bangladesh
-bn-IN	Bengali-Índia
-zh-CN	Chinês (Simplificado)
-zh-TW	Chinês (Tradicional)
-ko	Coreano
-da	Dinamarquês
-sk	Eslovaco
-sl	Esloveno
-es	Espanhol
-fi	Finlandês
-fr	Francês
-el	Grego
-nl	Holandês
-hu	Húngaro
-hi-IN	Indiano
-id	Indonésio
-en-US	Inglês
-it	Italiano
-ja	Japonês
-no	Norueguês
-pl	Polonês
-pt-BR	Português (Brasileiro)
-pt-PT	Português (Europeu)
-ro	Romeno
-ru	Russo
-sr-Cyrl	Sérvio - cirílico
-sv	Sueco
-th	Tailandês
-cs	Tcheco
-tr	Turco
+https://cursos.alura.com.br/formacao-machine-learning-negocios-digitais?$cupom$
 
-## Gramática computacional
+![](./imgs/6.jpeg)
 
-$- < English _ Pratic > -$
-$- < English _ Pratic > -$
+https://cursos.alura.com.br/course/machine-learning-introducao-a-classificacao-com-sklearn?$cupom$
 
-$- <English_Pratic> -$
+![](./imgs/7.jpeg)
 
+https://cursos.alura.com.br/course/machine-learning-validando-modelos?$cupom$
+
+## Free courses
+
+https://www.youtube.com/watch?v=eNpkQOMnF8g
+
+https://www.youtube.com/watch?v=FoQ8lQHPwgo
+
+https://www.youtube.com/watch?v=t9p4pJxZ1A0
 
 <p style="magin-top:100px" align="left">
 
